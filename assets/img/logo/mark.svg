@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Clínica Dental Louzao">
+  <defs>
+    <linearGradient id="lz-teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3FB0C9"/><stop offset="0.5" stop-color="#1A8BA8"/><stop offset="1" stop-color="#0F6E8C"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(5,3)">
+    <path d="M60 158 C 40 125, 30 95, 36 66 C 40 42, 62 34, 80 46 C 90 53, 100 53, 110 46 C 128 34, 152 42, 156 66 C 160 95, 148 125, 128 158 C 120 170, 108 164, 106 148 C 104 128, 114 110, 102 96 C 90 84, 72 96, 76 116 C 80 134, 94 138, 96 150" fill="none" stroke="#D8B98A" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M60 158 C 40 125, 30 95, 36 66 C 40 42, 62 34, 80 46 C 90 53, 100 53, 110 46 C 128 34, 152 42, 156 66 C 160 95, 148 125, 128 158 C 120 170, 108 164, 106 148 C 104 128, 114 110, 102 96 C 90 84, 72 96, 76 116 C 80 134, 94 138, 96 150" fill="none" stroke="url(#lz-teal)" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
